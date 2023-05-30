@@ -1,7 +1,7 @@
 # Hey👋! Welcome to my GitHub profible!
 ## My name is João Gabriel Simon Batista.
 
-# Curriculo
+# Currículo
 Meu currículo
 
 - 📚 Atualmente estou cursando o 3º ano do Ensino Médio.
