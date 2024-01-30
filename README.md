@@ -4,9 +4,9 @@
 # Currículo
 Meu currículo
 
-- 📚 Atualmente estou cursando o 3º ano do Ensino Médio.
-- 💻 Estou realizando o curso Jovem Programador no Senac de Chapecó-SC.
-- 💡 Adquirindo experiência para ingressar na área da programação.
+- 📚 Atualmente estou cursando graduação em Sistemas da Informação na Unoesc.
+- 💻 Procurando emprego na área de programação.
+- 💡 Conhecimento em desenvolvimento web e banco de dados.
 
 ## Skills:
 <div>
