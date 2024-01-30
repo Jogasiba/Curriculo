@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+    <title>Portfólio - João Gabriel</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <header><br>
+        <button id="voltar">
+          <img src="voltarIcone.png" style="width: 50px; margin-left: 30px;">
+        </button>
+  
+        <script>
+          document.getElementById('voltar').addEventListener('click', function() {
+          window.location.href = 'index.html';
+          });
+  
+          document.getElementById('voltar').addEventListener('mouseover', function() {
+          document.body.style.backgroundImage = "url('backgroundIndex.jpg')"; /* Trocar para a segunda imagem ao passar o mouse */
+          });
+    
+          document.getElementById('voltar').addEventListener('mouseout', function() {
+          document.body.style.backgroundImage = "url('backgroundPort.jpg')"; /* Voltar para a imagem inicial ao retirar o mouse */
+          });
+        </script>
+  
+      </header>
+      <div class="fotoPerfil">
+          <img src="fotoPerfil.jpg">
+      </div><br><br><br><br>
+</body>
+</html>
