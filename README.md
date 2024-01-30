@@ -4,6 +4,7 @@
 # Currículo
 Meu currículo
 
+- 😀 Me identifico com tecnologia desde cedo, amo jogos e programação. Participei de maratonas e cursos de desenvolvimento de apps e games. Sou carismático, comunicativo, sincero e dedicado.
 - 📚 Atualmente estou cursando graduação em Sistemas da Informação na Unoesc.
 - 💻 Procurando emprego na área de programação.
 - 💡 Conhecimento em desenvolvimento web e banco de dados.
